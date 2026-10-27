@@ -1,0 +1,9 @@
+# 报告产物与临时文件不入库
+*.docx
+*.doc
+~$*
+.dsh-office-*/
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
